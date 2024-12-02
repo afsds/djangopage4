@@ -1,4 +1,3 @@
-# Django model for blog post and users authentication
 from django.db import models
 from django.contrib.auth.models import User
 
